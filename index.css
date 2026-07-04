@@ -28,3 +28,84 @@ header{
  nav img{
     height: 50px;
  }
+ #hire{
+    background-color: #00ADB5;
+    border-radius: 24px;
+    padding: 0.9rem 2.3rem;
+    border: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    box-shadow: 2px 2px 2px gray;
+ }
+  #down{
+    background-color: #393E46BF;
+    border-radius: 24px;
+    padding: 0.9rem 3rem;
+    border: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    box-shadow: 2px 2px 2px gray;
+   
+ }
+.hero div{
+    display: flex;
+}
+.strelka{
+    padding: 0 0 20rem 0;
+}
+ .hero h1{
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 96%;
+    letter-spacing: 0%;
+    font-style: bold;
+    white-space: nowrap;
+    padding: 20px 0 20px ;
+ }
+ .hero span{
+    color: #00ADB5;
+ }
+ .hero{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+    padding: 50px;
+ }
+
+.person{
+    display: flex;
+    flex-direction: column;
+}
+.img-text{
+    position: relative;
+    bottom: 300px;
+    right: 70px;
+    filter: drop-shadow(0px 70px 35px gray);
+}
+.design div{
+    gap: 15px;
+}
+.design{
+    display: flex;
+    flex-direction: column;
+    margin-top: -50px;
+     /* margin: 0 0 0 150px; */
+     /* margin-top:-50rem; */
+}
+.hhh{
+    margin-top: -1500px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #6c63ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+/* .img-img{
+    margin-left: 0px;
+} */
